@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Igor de Oliveira
-- 👀 I’m interested in Frontend and UX/UI Design
-- 🌱 I’m currently learning ReactJS, Typescript and Product Design
+- 👋 Hi, I’m Igor de Oliveira!
+- 👀 I’m interested in Frontend and UX/UI Design.
+- 🌱 I’m currently learning ReactJS, NodeJS, and design.
